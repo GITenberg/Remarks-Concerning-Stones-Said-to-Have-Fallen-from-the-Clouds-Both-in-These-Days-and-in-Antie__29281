@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '33816'
     url: http://www.gutenberg.org/2009/agents/33816
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29281#Remarks-Concerning-Stones-Said-to-Have-Fallen-from-the-Clouds-Both-in-These-Days-and-in-Antie_
 gutenberg_issued: '2009-07-01'
 gutenberg_type: Text
 identifiers:
